@@ -329,7 +329,7 @@ sub splitit {
 .diff-old:after
     { content: "\2193" }
 </style>
-<script src="https://w3c.github.io/htmldiff-nav/index.js"></script>);
+<script src="htmldiff-nav.js"></script>);
 	if ($opt_t) {
 		$styles .= q(
 <script type="text/javascript">
